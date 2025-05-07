@@ -1,6 +1,8 @@
 <h1 align="center">✨ CreativeArt ✨</h1>&nbsp;
 
-- Developed by : [Hossein Najafi](https://github.com/hossein-nj)
+  Developed by : [Hossein Najafi](https://github.com/hossein-nj)&nbsp;
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hossein-nj.CreativeArt" width="70" />
 
 &nbsp;
 <h2>🚀 Live Demo</h2>
