@@ -6,7 +6,7 @@
 🔗 [Click here to view the live site](https://creative-cv8rolbf1-hossein-njs-projects.vercel.app)
 
 &nbsp;
-<h2>🛠️ Technologies:</h2>
+<h2>🛠️ Technologies</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -14,7 +14,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
 &nbsp;
-<h2>🛠️ Libraries:</h2>
+<h2>📚 Libraries</h2>
 
 ![Tippy.js](https://img.shields.io/badge/Tippy.js-3E8ED0?style=for-the-badge)&nbsp;
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF5A5F?style=for-the-badge)&nbsp;
