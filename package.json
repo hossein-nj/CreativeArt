@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx tailwindcss -i ./public/src/input.css -o ./public/css/style.css --watch",
-    "final": "npx tailwindcss -i ./public/src/input.css -o ./public/css/final.css --minify"
+    "t": "npx tailwindcss -i ./public/src/input.css -o ./public/css/style.css --watch",
+    "build": "npx tailwindcss -i ./public/src/input.css -o ./dist/css/final.css --minify && cp ./public/index.html ./dist/index.html"
   },
   "keywords": [],
   "author": "creativeart",
