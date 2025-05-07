@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "t": "npx tailwindcss -i ./public/src/input.css -o ./public/css/style.css --watch",
-    "build": "npx tailwindcss -i ./public/src/input.css -o ./dist/css/final.css --minify"
+    "build": "npx tailwindcss -i ./public/src/input.css -o ./public/css/final.css --minify"
   },
   "keywords": [],
   "author": "creativeart",
