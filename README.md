@@ -1,4 +1,4 @@
-<h1 align="center">🌟 CreativeArt</h1>&nbsp;
+<h1 align="center">✨ CreativeArt ✨</h1>&nbsp;
 
 - Developed by : [Hossein Najafi](https://github.com/hossein-nj)
 
@@ -23,6 +23,7 @@
 ![Particles.js](https://img.shields.io/badge/Particles.js-8C52FF?style=for-the-badge)&nbsp;
 ![WOW.js](https://img.shields.io/badge/WOW.js-FF9F1C?style=for-the-badge)&nbsp;
 ![Typewriter.js](https://img.shields.io/badge/Typewriter.js-00C49A?style=for-the-badge)&nbsp;
+![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4?style=for-the-badge)
 
 &nbsp;
 <h2>🔧 How to run project</h2>
