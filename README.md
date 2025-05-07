@@ -1,6 +1,8 @@
-<h1>🌟 CreativeArt</h1>
-<p>This is my first official project which is a landing page</p>
+<h1 align="center">🌟 CreativeArt</h1>&nbsp;
 
+- Developed by : [Hossein Najafi](https://github.com/hossein-nj)
+
+&nbsp;
 <h2>🚀 Live Demo</h2>
 
 🔗 [Click here to view the live site](https://creative-cv8rolbf1-hossein-njs-projects.vercel.app)
