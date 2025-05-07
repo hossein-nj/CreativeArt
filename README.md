@@ -28,7 +28,7 @@
 ![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4?style=for-the-badge)
 
 &nbsp;
-<h2>🔧 How to run project</h2>
+<h2>🔧 How to Use</h2>
 
 First of all, clone the project to your working directory by running the following command:
 
