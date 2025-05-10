@@ -7,7 +7,7 @@
 &nbsp;
 <h2>🚀 Live Demo</h2>
 
-🔗 [Click here to view the live site](https://creative-cv8rolbf1-hossein-njs-projects.vercel.app)
+🔗 <a href="https://creative-cv8rolbf1-hossein-njs-projects.vercel.app" target="_blank">Click here to view the live site</a>
 
 &nbsp;
 <h2>🛠️ Technologies</h2>
